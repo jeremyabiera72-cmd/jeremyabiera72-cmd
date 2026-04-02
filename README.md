@@ -1,4 +1,4 @@
-# Hi, I'm Jeremy 👋
+# Hi, I'm Jeremy/Yumi Dev
 
 💻 Web Developer & UI/UX Designer  
 I build modern, responsive, and user-focused web applications.
