@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a web developer, a ui/ux designer, also mobile dev, i create modern website that looks clean and easy to understand and professional looks that the user is comfortable and also the admin
+I am a web developer, UI/UX designer, and mobile developer who creates modern, clean, and user-friendly digital experiences. I focus on building intuitive interfaces that are both visually appealing and efficient for users and administrators.
 
 
 ## 🌐 Socials:
